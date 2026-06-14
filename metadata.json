@@ -1,0 +1,10 @@
+{
+  "name": "MULTICENO Dashboard",
+  "description": "Executive business management system and CEO dashboard for MULTICENO GROUP OF COMPANIES.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
